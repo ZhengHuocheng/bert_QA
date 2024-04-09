@@ -1,2 +1,2 @@
 # bert_QA
-bert_QA模型
+基于Bert的问答模型，包含界面设计
